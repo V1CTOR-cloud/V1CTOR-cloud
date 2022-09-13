@@ -32,6 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=v1ctor-cloud&show_icons=true&locale=en&layout=compact" alt="v1ctor-cloud" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v1ctor-cloud&show_icons=true&locale=en" alt="v1ctor-cloud" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v1ctor-cloud&" alt="v1ctor-cloud" /></p>
