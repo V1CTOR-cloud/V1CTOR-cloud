@@ -11,11 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/V1CTOR-cloud](https://github.com/V1CTOR-cloud)
 
-- 📝 I regularly write articles on [https://www.buymeacoffee.com/victorbg18C](https://www.buymeacoffee.com/victorbg18C)
+- 📝 Sometimes write articles on [https://www.buymeacoffee.com/victorbg18C](https://www.buymeacoffee.com/victorbg18C)
 
 - 📫 How to reach me **victorbg189@gmail.com**
 
 - ⚡ Others **I'm a active person who loves starting proyects, test new technologies, coding and sport**
+
+- :cowboy_hat_face: I'm looking for projects, Start Ups, etc... Always there are something to do
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
