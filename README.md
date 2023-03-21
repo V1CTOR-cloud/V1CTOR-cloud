@@ -127,6 +127,9 @@
       - UX/UI skills
       - SCRUM method
       - Jest
+      - Figma
+      - GraphQL
+      - Hygraph or GraphCMS
       - ...
   </p>
 </details>
