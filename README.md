@@ -101,7 +101,7 @@
     coding & wear headset all day long, feel free taking tour through my repos and judge my work,
     also i very appreciate rate my work with a star or a review.
     
-    I'm currently working as Full Stack on NEXO S.L. and studying
+    I'm currently on Digiole Oy, Helsinki as an intern for front-end dev and studying
     Web Development in Florida Universitaria, i already studied Cross-plattform development.
     
     
